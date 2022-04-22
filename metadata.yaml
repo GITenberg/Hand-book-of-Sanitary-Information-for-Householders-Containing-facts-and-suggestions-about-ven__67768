@@ -1,0 +1,44 @@
+_repo: Hand-book-of-Sanitary-Information-for-Householders-Containing-facts-and-suggestions-about-ven__67768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tracy, Roger Sherman
+    aliases:
+    - Hodge, T. Shirby
+    - Tracy, R. S. (Roger Sherman)
+    birthdate: 1841
+    deathdate: 1926
+    gutenberg_agent_id: '54449'
+    url: http://www.gutenberg.org/2009/agents/54449
+description: ''
+gutenberg_issued: '2022-04-03'
+identifiers:
+  gutenberg: '67768'
+  lccn: '06030711'
+language: en
+pgterms:marc904: https://archive.org/details/handbookofsanita00trac_0/page/n5/mode/2up
+pgterms:marc905: 20200714212338tracy
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: Charlene Taylor, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :D. Appleton and Compay,1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcsh 'Drinking water'
+- !lcsh 'Sanitation, Household'
+- !lcsh 'Food adulteration and inspection'
+- !lcsh 'Disinfection and disinfectants'
+- !lcc 'RA'
+- !lcsh 'Ventilation'
+- GITenberg
+tableOfContents: Air -- Drainage -- Disinfection -- Food -- Water -- Appendix A. Disinfectants
+  -- Appendix B. Plumbers' materials.
+title: "Hand-book of Sanitary Information for Householders\r\nContaining facts and\
+  \ suggestions about ventilation, drainage, care of contageous diseases, disinfection,\
+  \ food, and water. With appendices on disinfectants and plumbers' materials."
+url: http://www.gutenberg.org/ebooks/67768
