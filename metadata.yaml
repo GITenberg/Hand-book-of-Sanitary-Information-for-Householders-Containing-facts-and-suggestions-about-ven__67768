@@ -1,5 +1,8 @@
 _repo: Hand-book-of-Sanitary-Information-for-Householders-Containing-facts-and-suggestions-about-ven__67768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67768-h/images/cover.jpg
 creator:
   author:
     agent_name: Tracy, Roger Sherman
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54449'
     url: http://www.gutenberg.org/2009/agents/54449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67768#Hand-book-of-Sanitary-Information-for-Householders-Containing-facts-and-suggestions-about-ven_
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67768'
